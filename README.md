@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/muntaha700/muntaha700/473afc0d930a4026b2e9081b740d495126f85757/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Muntaha</h1>
 <h3 align="center">Passionate about clean code and smart solutions.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif">
